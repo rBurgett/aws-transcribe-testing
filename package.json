@@ -1,0 +1,27 @@
+{
+  "name": "aws-transcribe-testing",
+  "version": "0.1.0",
+  "description": "aws-transcribe-testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/aws-transcribe-testing.git"
+  },
+  "author": "Ryan Burgett <ryan@burgettweb.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/aws-transcribe-testing/issues"
+  },
+  "homepage": "https://github.com/rBurgett/aws-transcribe-testing#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.452.0",
+    "superagent": "^5.0.5",
+    "uuid": "^3.3.2"
+  }
+}
