@@ -20,7 +20,7 @@
     "eslint": "^5.16.0"
   },
   "dependencies": {
-    "aws-sdk": "^2.452.0",
+    "aws-sdk": "^2.814.0",
     "superagent": "^5.0.5",
     "uuid": "^3.3.2"
   }
